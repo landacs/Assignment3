@@ -9,7 +9,7 @@
 
 #collapsable-nav{
 	border: 1px solid black;
-	background-color: #f8f8f8;
+	background-color: #c8c8c8;
 }
 
 .content-background {
@@ -22,10 +22,15 @@
 }
 
 .nav-dropdown-background {
-	background-color: #c8c8c8;
+	background-color: #f8f8f8;
 }
 
 .big-black-font{
 	font-size: 1.7em;
 	color:black !important;
+}
+
+.border{
+	border-top:1px solid black;
+	border-left:1px solid black;
 }
