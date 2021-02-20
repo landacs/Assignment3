@@ -13,17 +13,14 @@
 }
 
 .content-background {
-	background-color: #c8c8c8;
-}
-
-.content-background  .padding-around{
+	background-color: #c8c8c8 !important;
 	padding: 1px 5px 0px 5px;
-	margin: 0px 20px 20px 20px;
 }
 
-.nav-dropdown-background {
-	background-color: #c8c8c8;
+.padding-around{
+	padding: 10px 20px 0px 20px !important;
 }
+
 
 .big-black-font{
 	font-size: 1.7em;
